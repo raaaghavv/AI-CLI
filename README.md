@@ -2,6 +2,10 @@
 
 An intelligent command-line interface that combines the power of AI chatbot capabilities with website UI cloning functionality. Built with Node.js and powered by Google's Gemini AI.
 
+## 🎥 Demo
+
+[Watch the Demo](https://youtu.be/ujkAfBUTYBc)
+
 ## 🌟 Features
 
 - **AI Chat Interface**: Interactive conversations with an AI assistant with previous context
@@ -15,7 +19,7 @@ An intelligent command-line interface that combines the power of AI chatbot capa
 
 ```bash
 git clone https://github.com/raaaghavv/AI-CLI.git
-cd website-cloner
+cd AI-CLI
 ```
 
 2. Install dependencies:
